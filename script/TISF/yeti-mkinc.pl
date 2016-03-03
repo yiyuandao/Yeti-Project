@@ -6,7 +6,7 @@ use strict;
 use warnings;
 use YAML::Syck qw/LoadFile/;
 
-our $rootservers_file = '/root/mhb/test_mzsk/yeti-root-servers.yaml';
+our $rootservers_file = '/home/vixie/work/yeticonf/dm/yeti-root-servers.yaml';
 our $confinc_file = './named.yeti.inc';
 
 #
